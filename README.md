@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello World! ^-^
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=josh7951&count_private=true&show_icons=true&theme=tokyonight" />
+  </a>
+</p>
+
 
 <!--
 **josh7951/josh7951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
